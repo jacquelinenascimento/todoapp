@@ -6,7 +6,7 @@
 <p> Aplication to manage projects and tasks </p>
 
 
-<img src="https://github.com/jacquelinenascimento/todoapp/blob/main/todolist.png alt="modelo das classes" width="500" height="600">
+<img src="https://github.com/jacquelinenascimento/todoapp/blob/main/todolist.png" alt="modelo das classes" width="500" height="600">
 
 
 
