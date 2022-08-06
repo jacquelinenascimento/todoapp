@@ -5,3 +5,8 @@
 
 <p> Aplication to manage projects and tasks </p>
 
+
+
+
+<p> Technologies used: Apache NeatBeans IDE 14, Java Development Kit 8 and 18, Swing to develop the interface. </p>
+
