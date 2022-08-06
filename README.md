@@ -8,5 +8,7 @@
 
 
 
-<p> Technologies used: Apache NeatBeans IDE 14, Java Development Kit 8 and 18, Swing to develop the interface. </p>
+
+
+<p> Technologies used: Java, MySQL. </p>
 
